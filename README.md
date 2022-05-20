@@ -35,3 +35,9 @@ para rodar a aplicação é necessário:
     <li>Yup</li>
     <li>Redux-Tolkit - Redux - React Redux</li>
 </ol>
+
+## URL da aplicação em produção
+
+<li>A aplicação foi hospedada na vecel</li>
+
+Link: <a href="https://fisgar-locator.vercel.app">fisgar locator</a>
