@@ -67,7 +67,7 @@ export const FormUser = () => {
                 actions.setSubmitting(true);
             }}
         >
-            <Form style={{display: 'flex', flexDirection: 'column' , gap:'10px', padding:'50px' }} method="get" action="/dfsf" >
+            <Form style={{display: 'flex', flexDirection: 'column' , gap:'10px', padding:'50px' }} method="post" action="/" target="_blank" >
                <h1 style={{alignSelf:'center'}}>Fisgar Locator System</h1>
                 <Box style={{display:'flex',flexDirection: 'row',width:'100%', gap:'10px'}}>
                     <Box style={{display:'flex',flexDirection: 'column', width:'50%'}}>
